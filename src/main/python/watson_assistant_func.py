@@ -2,7 +2,8 @@ import re
 import json
 import pandas as pd
 import time
-from watson_developer_cloud import WatsonApiException
+#from watson_developer_cloud import WatsonApiException
+from ibm_watson import WatsonApiException
 import os
 
 
